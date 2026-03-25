@@ -131,9 +131,8 @@ Sparse PCA is widely used in:
 - Genomics
 - Finance factor models
 - High-dimensional data analysis
-- Future Work
 
-# Possible extensions include:
+# Future Possible extensions include:
 
 - Gene importance analysis
 - Biological pathway interpretation
