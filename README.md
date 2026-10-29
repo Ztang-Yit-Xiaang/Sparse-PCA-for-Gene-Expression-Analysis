@@ -1,15 +1,17 @@
 # Sparse PCA for Gene Expression Analysis
 
 <!-- BEGIN portfolio-project-animations -->
-## Animated project guide
+## Recorded project interactions
 
-These self-contained SVG animations explain the project workflow. They are illustrative guides, not recorded experiments or new performance results. Static content remains available when reduced motion is requested.
+These previews record interaction with original project figures, saved notebook outputs, source tests, or the actual project interface. They do not represent new experiments, model inference, or benchmark runs. Pointer-driven inspection, saved-result selection, and browser controls are captured below.
 
-### Sparse PCA
+### Compare the saved PCA views
 
-![Sparse PCA — illustrative animation](docs/portfolio-animations/sparse-pca-gene-expression.svg)
+![Compare the saved PCA views - recorded project interaction](docs/portfolio-previews/sparse-pca-gene-expression.gif)
 
-Conceptual dense-to-sparse loadings. These are not patient data, measured gene weights or a clinical prediction.
+Original PCA/SPCA figures and saved alpha sweep. These views are exploratory; no refit, patient-level data, or clinical prediction is provided.
+
+[Original project material](https://github.com/Ztang-Yit-Xiaang/Sparse-PCA-for-Gene-Expression-Analysis)
 
 <!-- END portfolio-project-animations -->
 
