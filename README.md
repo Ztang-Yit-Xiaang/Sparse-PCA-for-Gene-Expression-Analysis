@@ -1,5 +1,18 @@
 # Sparse PCA for Gene Expression Analysis
 
+<!-- BEGIN portfolio-project-animations -->
+## Animated project guide
+
+These self-contained SVG animations explain the project workflow. They are illustrative guides, not recorded experiments or new performance results. Static content remains available when reduced motion is requested.
+
+### Sparse PCA
+
+![Sparse PCA — illustrative animation](docs/portfolio-animations/sparse-pca-gene-expression.svg)
+
+Conceptual dense-to-sparse loadings. These are not patient data, measured gene weights or a clinical prediction.
+
+<!-- END portfolio-project-animations -->
+
 ## Overview
 
 High-dimensional biological datasets such as gene expression profiles often contain **thousands of genes but relatively few samples**.  
